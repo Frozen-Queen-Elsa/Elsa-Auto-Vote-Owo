@@ -1,4 +1,4 @@
-from version import Version
+
 from requests import get
 
 
